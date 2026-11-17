@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1187637262708793597
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 388538001073180289, guid: 7072af104b41dcf4cb3489714c7d1a32, type: 3}
+      propertyPath: maxHealth
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 727889093266180883, guid: 7072af104b41dcf4cb3489714c7d1a32, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 727889093266180883, guid: 7072af104b41dcf4cb3489714c7d1a32, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 727889093266180883, guid: 7072af104b41dcf4cb3489714c7d1a32, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 727889093266180883, guid: 7072af104b41dcf4cb3489714c7d1a32, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 727889093266180883, guid: 7072af104b41dcf4cb3489714c7d1a32, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 727889093266180883, guid: 7072af104b41dcf4cb3489714c7d1a32, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 727889093266180883, guid: 7072af104b41dcf4cb3489714c7d1a32, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 727889093266180883, guid: 7072af104b41dcf4cb3489714c7d1a32, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 727889093266180883, guid: 7072af104b41dcf4cb3489714c7d1a32, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 727889093266180883, guid: 7072af104b41dcf4cb3489714c7d1a32, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1321683234982084854, guid: 7072af104b41dcf4cb3489714c7d1a32, type: 3}
+      propertyPath: weapon
+      value: 
+      objectReference: {fileID: 11400000, guid: bee3a7641de01484ca25acf1eb7cec3e, type: 2}
+    - target: {fileID: 1321683234982084854, guid: 7072af104b41dcf4cb3489714c7d1a32, type: 3}
+      propertyPath: attackRange
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 2098623330000880994, guid: 7072af104b41dcf4cb3489714c7d1a32, type: 3}
+      propertyPath: m_Name
+      value: BossArmoredCar
+      objectReference: {fileID: 0}
+    - target: {fileID: 8445992755878714343, guid: 7072af104b41dcf4cb3489714c7d1a32, type: 3}
+      propertyPath: amount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8758212058418599625, guid: 7072af104b41dcf4cb3489714c7d1a32, type: 3}
+      propertyPath: moveSpeed
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8758212058418599625, guid: 7072af104b41dcf4cb3489714c7d1a32, type: 3}
+      propertyPath: detectionRange
+      value: 30
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7072af104b41dcf4cb3489714c7d1a32, type: 3}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0cae6d5c0e4ecbac1e59e7c2eaf9c0, type: 3}
+  m_Name: SewerPulse
+  m_EditorClassIdentifier: Assembly-CSharp::ContraLike.Combat.WeaponSettings
+  title: "\u0418\u043C\u043F\u0443\u043B\u044C\u0441 \u0421\u043C\u043E\u0442\u0440\u0438\u0442\u0435\u043B\u044F"
+  price: 0
+  projectile: {fileID: 2045323195220616095, guid: b5ae677eb5d4f9344b3fc3ab25489666, type: 3}
+  damage: 9
+  fireInterval: 1.05
+  automatic: 1
+  projectilesPerShot: 3
+  spreadAngle: 32
+  projectileSpeed: 10
+  projectileLifetime: 4
+  explosionRadius: 0
+  explosionEffect: {fileID: 0}
+  shotSound: {fileID: 8300000, guid: cd17dc396a4eafa448cb2f4641dbd1d3, type: 3}
+  unlockId: d7b21e4d0f4021b47abd52a2c178784d

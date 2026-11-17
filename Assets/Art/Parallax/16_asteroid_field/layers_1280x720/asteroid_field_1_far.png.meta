@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 686da989e18bfca41b6655a4b5b3881f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1920846847981011382
+    second: asteroid_field_1_far_0
+  - first:
+      213: 2810415898969473911
+    second: asteroid_field_1_far_1
+  - first:
+      213: -329235847595492449
+    second: asteroid_field_1_far_2
+  - first:
+      213: -8747222502042049722
+    second: asteroid_field_1_far_3
+  - first:
+      213: 4827455395365810800
+    second: asteroid_field_1_far_4
+  - first:
+      213: -1356902777302782849
+    second: asteroid_field_1_far_5
+  - first:
+      213: -6779996275636912379
+    second: asteroid_field_1_far_6
+  - first:
+      213: -8435249713617245094
+    second: asteroid_field_1_far_7
+  - first:
+      213: 4570880435024259594
+    second: asteroid_field_1_far_8
+  - first:
+      213: 9198864372412308472
+    second: asteroid_field_1_far_9
+  - first:
+      213: -8217276344697812552
+    second: asteroid_field_1_far_10
+  - first:
+      213: 304877213095043945
+    second: asteroid_field_1_far_11
+  - first:
+      213: 6747598114800106336
+    second: asteroid_field_1_far_12
+  - first:
+      213: 2610199506237108597
+    second: asteroid_field_1_far_13
+  - first:
+      213: 4851429197452348910
+    second: asteroid_field_1_far_14
+  - first:
+      213: 5018801288678192170
+    second: asteroid_field_1_far_15
+  - first:
+      213: 5879842841889216371
+    second: asteroid_field_1_far_16
+  - first:
+      213: 4477661255374532361
+    second: asteroid_field_1_far_17
+  - first:
+      213: 3671418685537812218
+    second: asteroid_field_1_far_18
+  - first:
+      213: 687643198027187037
+    second: asteroid_field_1_far_19
+  - first:
+      213: -663591356379725328
+    second: asteroid_field_1_far_20
+  - first:
+      213: 4607373134152333887
+    second: asteroid_field_1_far_21
+  - first:
+      213: 3223432629607800316
+    second: asteroid_field_1_far_22
+  - first:
+      213: 7179359624382820011
+    second: asteroid_field_1_far_23
+  - first:
+      213: 3188259707627227640
+    second: asteroid_field_1_far_24
+  - first:
+      213: 4253904520183230044
+    second: asteroid_field_1_far_25
+  - first:
+      213: -4849141304141150706
+    second: asteroid_field_1_far_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: asteroid_field_1_far_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4eb92608f7c755e0800000000000000
+      internalID: -1920846847981011382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_1
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 635
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7738f21be5a900720800000000000000
+      internalID: 2810415898969473911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 611
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bfeb0bdb15e6bf0800000000000000
+      internalID: -329235847595492449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_3
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 623
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643ea7aaa7f9b9680800000000000000
+      internalID: -8747222502042049722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 503
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07272d9ea119ef240800000000000000
+      internalID: 4827455395365810800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 487
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c602cfc105b2de0800000000000000
+      internalID: -1356902777302782849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 479
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fb03c2f4d98e1a0800000000000000
+      internalID: -6779996275636912379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_7
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 487
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ce02cc319ffea80800000000000000
+      internalID: -8435249713617245094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_8
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 399
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a6760c9870f6f30800000000000000
+      internalID: 4570880435024259594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 375
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbd1a6b86ee8af70800000000000000
+      internalID: 9198864372412308472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_10
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 347
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9011593be56fd80800000000000000
+      internalID: -8217276344697812552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_11
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 351
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96324a2c5342b3400800000000000000
+      internalID: 304877213095043945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 319
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b71cf2cb844ad50800000000000000
+      internalID: 6747598114800106336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_13
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 315
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571b92a1f9a493420800000000000000
+      internalID: 2610199506237108597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_14
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 323
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed0b1fa62db35340800000000000000
+      internalID: 4851429197452348910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_15
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 263
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24bfe96e2d56a540800000000000000
+      internalID: 5018801288678192170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_16
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 235
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3771ee579e5699150800000000000000
+      internalID: 5879842841889216371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 211
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fe0272039d32e30800000000000000
+      internalID: 4477661255374532361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 171
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe763da7df73f230800000000000000
+      internalID: 3671418685537812218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_19
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 143
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53cf9668dffa8900800000000000000
+      internalID: 687643198027187037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_20
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 147
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f187fe5d237ac6f0800000000000000
+      internalID: -663591356379725328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_21
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 135
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3af3d0647da0ff30800000000000000
+      internalID: 4607373134152333887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd1d2de5eeebbc20800000000000000
+      internalID: 3223432629607800316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_23
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 71
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baeae1e5a8532a360800000000000000
+      internalID: 7179359624382820011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_24
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 87
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9cfccdf49fe3c20800000000000000
+      internalID: 3188259707627227640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 35
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e23f97f97e80b30800000000000000
+      internalID: 4253904520183230044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_field_1_far_26
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 27
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e060efcfca364bcb0800000000000000
+      internalID: -4849141304141150706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      asteroid_field_1_far_0: -1920846847981011382
+      asteroid_field_1_far_1: 2810415898969473911
+      asteroid_field_1_far_10: -8217276344697812552
+      asteroid_field_1_far_11: 304877213095043945
+      asteroid_field_1_far_12: 6747598114800106336
+      asteroid_field_1_far_13: 2610199506237108597
+      asteroid_field_1_far_14: 4851429197452348910
+      asteroid_field_1_far_15: 5018801288678192170
+      asteroid_field_1_far_16: 5879842841889216371
+      asteroid_field_1_far_17: 4477661255374532361
+      asteroid_field_1_far_18: 3671418685537812218
+      asteroid_field_1_far_19: 687643198027187037
+      asteroid_field_1_far_2: -329235847595492449
+      asteroid_field_1_far_20: -663591356379725328
+      asteroid_field_1_far_21: 4607373134152333887
+      asteroid_field_1_far_22: 3223432629607800316
+      asteroid_field_1_far_23: 7179359624382820011
+      asteroid_field_1_far_24: 3188259707627227640
+      asteroid_field_1_far_25: 4253904520183230044
+      asteroid_field_1_far_26: -4849141304141150706
+      asteroid_field_1_far_3: -8747222502042049722
+      asteroid_field_1_far_4: 4827455395365810800
+      asteroid_field_1_far_5: -1356902777302782849
+      asteroid_field_1_far_6: -6779996275636912379
+      asteroid_field_1_far_7: -8435249713617245094
+      asteroid_field_1_far_8: 4570880435024259594
+      asteroid_field_1_far_9: 9198864372412308472
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

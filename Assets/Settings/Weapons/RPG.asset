@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0cae6d5c0e4ecbac1e59e7c2eaf9c0, type: 3}
+  m_Name: RPG
+  m_EditorClassIdentifier: Assembly-CSharp::ContraLike.Combat.WeaponSettings
+  title: "\u0420\u041F\u0413"
+  price: 25
+  projectile: {fileID: 2383892643676346425, guid: 958c4676dfb094f4489eaa272bdb156b, type: 3}
+  damage: 45
+  fireInterval: 1
+  automatic: 0
+  projectilesPerShot: 1
+  spreadAngle: 30
+  projectileSpeed: 6
+  projectileLifetime: 6
+  explosionRadius: 2.5
+  explosionEffect: {fileID: 2436145687007252933, guid: 00477412cfe919e4eba8808383c188fe, type: 3}
+  shotSound: {fileID: 8300000, guid: d0cf70416c03c58409f6ddb884b97c3e, type: 3}
+  unlockId: 6fa854f0e857e8f4e8a99a673b5014a3

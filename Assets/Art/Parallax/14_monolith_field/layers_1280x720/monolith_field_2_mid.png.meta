@@ -1,0 +1,2600 @@
+fileFormatVersion: 2
+guid: eb7e75b058620084c9c06504b5c57740
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4100419139584095871
+    second: monolith_field_2_mid_0
+  - first:
+      213: 2849330614418251199
+    second: monolith_field_2_mid_1
+  - first:
+      213: 8473006865653287542
+    second: monolith_field_2_mid_2
+  - first:
+      213: -1957992354079180776
+    second: monolith_field_2_mid_3
+  - first:
+      213: -2362765359984282290
+    second: monolith_field_2_mid_4
+  - first:
+      213: 3227651744189547303
+    second: monolith_field_2_mid_5
+  - first:
+      213: 5099389497298278699
+    second: monolith_field_2_mid_6
+  - first:
+      213: 7138614307872867062
+    second: monolith_field_2_mid_7
+  - first:
+      213: 3792488631812649799
+    second: monolith_field_2_mid_8
+  - first:
+      213: -3123069048121186506
+    second: monolith_field_2_mid_9
+  - first:
+      213: 7292795833284272047
+    second: monolith_field_2_mid_10
+  - first:
+      213: 8622092266763014635
+    second: monolith_field_2_mid_11
+  - first:
+      213: -4751348550999172836
+    second: monolith_field_2_mid_12
+  - first:
+      213: 5334287497202518205
+    second: monolith_field_2_mid_13
+  - first:
+      213: -4635573721762256455
+    second: monolith_field_2_mid_14
+  - first:
+      213: -674105847648267486
+    second: monolith_field_2_mid_15
+  - first:
+      213: 4970990222297737536
+    second: monolith_field_2_mid_16
+  - first:
+      213: 7867736328806885615
+    second: monolith_field_2_mid_17
+  - first:
+      213: 741798001807972779
+    second: monolith_field_2_mid_18
+  - first:
+      213: 7043566672603424586
+    second: monolith_field_2_mid_19
+  - first:
+      213: -2081813290128295191
+    second: monolith_field_2_mid_20
+  - first:
+      213: -3141103740099679808
+    second: monolith_field_2_mid_21
+  - first:
+      213: 7976485311645960546
+    second: monolith_field_2_mid_22
+  - first:
+      213: 4551564310132964766
+    second: monolith_field_2_mid_23
+  - first:
+      213: 5988821574697683066
+    second: monolith_field_2_mid_24
+  - first:
+      213: 7173300788850655937
+    second: monolith_field_2_mid_25
+  - first:
+      213: 6586321909815106356
+    second: monolith_field_2_mid_26
+  - first:
+      213: 421476169112691318
+    second: monolith_field_2_mid_27
+  - first:
+      213: 6111250235830565125
+    second: monolith_field_2_mid_28
+  - first:
+      213: -4092598506805388567
+    second: monolith_field_2_mid_29
+  - first:
+      213: -1782178057369711405
+    second: monolith_field_2_mid_30
+  - first:
+      213: -9201527735610679297
+    second: monolith_field_2_mid_31
+  - first:
+      213: -8798025737846865720
+    second: monolith_field_2_mid_32
+  - first:
+      213: 3442948797514485000
+    second: monolith_field_2_mid_33
+  - first:
+      213: -5627940071199851377
+    second: monolith_field_2_mid_34
+  - first:
+      213: 608362741308202527
+    second: monolith_field_2_mid_35
+  - first:
+      213: 4132317140007004673
+    second: monolith_field_2_mid_36
+  - first:
+      213: -2868804805166394960
+    second: monolith_field_2_mid_37
+  - first:
+      213: -6704066912066741262
+    second: monolith_field_2_mid_38
+  - first:
+      213: 2773986081856398363
+    second: monolith_field_2_mid_39
+  - first:
+      213: 3757532809244350807
+    second: monolith_field_2_mid_40
+  - first:
+      213: -3772000308436275881
+    second: monolith_field_2_mid_41
+  - first:
+      213: 3022033267207135440
+    second: monolith_field_2_mid_42
+  - first:
+      213: -3174878596015682898
+    second: monolith_field_2_mid_43
+  - first:
+      213: -5226702504064484713
+    second: monolith_field_2_mid_44
+  - first:
+      213: 2837434583469596125
+    second: monolith_field_2_mid_45
+  - first:
+      213: 2897702526365184069
+    second: monolith_field_2_mid_46
+  - first:
+      213: -7247415389439948429
+    second: monolith_field_2_mid_47
+  - first:
+      213: -5664399864095167316
+    second: monolith_field_2_mid_48
+  - first:
+      213: -3275921495006892966
+    second: monolith_field_2_mid_49
+  - first:
+      213: -3424460277903832512
+    second: monolith_field_2_mid_50
+  - first:
+      213: -6808495721754310754
+    second: monolith_field_2_mid_51
+  - first:
+      213: 8519204123408466033
+    second: monolith_field_2_mid_52
+  - first:
+      213: 5781039374278713531
+    second: monolith_field_2_mid_53
+  - first:
+      213: -2935046951767910554
+    second: monolith_field_2_mid_54
+  - first:
+      213: 1150601700476029776
+    second: monolith_field_2_mid_55
+  - first:
+      213: 4056084112779208329
+    second: monolith_field_2_mid_56
+  - first:
+      213: 8460439697954848284
+    second: monolith_field_2_mid_57
+  - first:
+      213: 3618626203395042437
+    second: monolith_field_2_mid_58
+  - first:
+      213: -976117320331547903
+    second: monolith_field_2_mid_59
+  - first:
+      213: 2394198377926670844
+    second: monolith_field_2_mid_60
+  - first:
+      213: 5668182888927305293
+    second: monolith_field_2_mid_61
+  - first:
+      213: -917485210432116165
+    second: monolith_field_2_mid_62
+  - first:
+      213: -3722931353580242197
+    second: monolith_field_2_mid_63
+  - first:
+      213: -9029288792043022288
+    second: monolith_field_2_mid_64
+  - first:
+      213: 3251476078231741302
+    second: monolith_field_2_mid_65
+  - first:
+      213: -4956188160555992694
+    second: monolith_field_2_mid_66
+  - first:
+      213: -1936335293536172403
+    second: monolith_field_2_mid_67
+  - first:
+      213: 4704344765620972274
+    second: monolith_field_2_mid_68
+  - first:
+      213: 4471874261927874010
+    second: monolith_field_2_mid_69
+  - first:
+      213: -6243869981712967522
+    second: monolith_field_2_mid_70
+  - first:
+      213: 7056658159693342254
+    second: monolith_field_2_mid_71
+  - first:
+      213: -8425475900905116671
+    second: monolith_field_2_mid_72
+  - first:
+      213: 8691150696669030012
+    second: monolith_field_2_mid_73
+  - first:
+      213: 879439980698209716
+    second: monolith_field_2_mid_74
+  - first:
+      213: 5807275702584235415
+    second: monolith_field_2_mid_75
+  - first:
+      213: 3541657152540254329
+    second: monolith_field_2_mid_76
+  - first:
+      213: 3430957829426861571
+    second: monolith_field_2_mid_77
+  - first:
+      213: -424444449209910855
+    second: monolith_field_2_mid_78
+  - first:
+      213: 963759055021975776
+    second: monolith_field_2_mid_79
+  - first:
+      213: 2037764989759660026
+    second: monolith_field_2_mid_80
+  - first:
+      213: -1637220756996668817
+    second: monolith_field_2_mid_81
+  - first:
+      213: -8599941332340233913
+    second: monolith_field_2_mid_82
+  - first:
+      213: 5338305148403716659
+    second: monolith_field_2_mid_83
+  - first:
+      213: -5451994703109971198
+    second: monolith_field_2_mid_84
+  - first:
+      213: 6048415506563581807
+    second: monolith_field_2_mid_85
+  - first:
+      213: 5859429012293038863
+    second: monolith_field_2_mid_86
+  - first:
+      213: -4848965321286222409
+    second: monolith_field_2_mid_87
+  - first:
+      213: 862904324072094263
+    second: monolith_field_2_mid_88
+  - first:
+      213: 5551940283095433711
+    second: monolith_field_2_mid_89
+  - first:
+      213: 3144881452939827227
+    second: monolith_field_2_mid_90
+  - first:
+      213: -7913250999729391696
+    second: monolith_field_2_mid_91
+  - first:
+      213: 8621623987122817526
+    second: monolith_field_2_mid_92
+  - first:
+      213: -4163526987150715671
+    second: monolith_field_2_mid_93
+  - first:
+      213: 7230528906602835009
+    second: monolith_field_2_mid_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monolith_field_2_mid_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 83
+        width: 70
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f767f158b7d97e830800000000000000
+      internalID: 4100419139584095871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 347
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd9b00f81bda8720800000000000000
+      internalID: 2849330614418251199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_2
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 323
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ac5b63ada269570800000000000000
+      internalID: 8473006865653287542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_3
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 95
+        width: 78
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818fd2ee350d3d4e0800000000000000
+      internalID: -1957992354079180776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 95
+        width: 54
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45f98e6c65c53fd0800000000000000
+      internalID: -2362765359984282290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_5
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 107
+        width: 38
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7238617192ceacc20800000000000000
+      internalID: 3227651744189547303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_6
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 107
+        width: 46
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2952d5eabba4c640800000000000000
+      internalID: 5099389497298278699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_7
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 83
+        width: 62
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2884914e3711360800000000000000
+      internalID: 7138614307872867062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_8
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 95
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74376e13150a1a430800000000000000
+      internalID: 3792488631812649799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_9
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 95
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63728b95f31a8a4d0800000000000000
+      internalID: -3123069048121186506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_10
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 83
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf9b56eb27353560800000000000000
+      internalID: 7292795833284272047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_11
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 83
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be15d0d1c33d7a770800000000000000
+      internalID: 8622092266763014635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_12
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 83
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1990a5aaa1df0eb0800000000000000
+      internalID: -4751348550999172836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_13
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 83
+        width: 70
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db840986732370a40800000000000000
+      internalID: 5334287497202518205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 71
+        width: 70
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9a938a2422bafb0800000000000000
+      internalID: -4635573721762256455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_15
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 71
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22359e99d4815a6f0800000000000000
+      internalID: -674105847648267486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_16
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 71
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0492ffd05418cf440800000000000000
+      internalID: 4970990222297737536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_17
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 71
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe868f88180df2d60800000000000000
+      internalID: 7867736328806885615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_18
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 71
+        width: 70
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9dbd83a556b4a00800000000000000
+      internalID: 741798001807972779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_19
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 71
+        width: 62
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47ae400296cfb160800000000000000
+      internalID: 7043566672603424586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 59
+        width: 70
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea3731b7d9eb13e0800000000000000
+      internalID: -2081813290128295191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_21
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 59
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c925b86ace8864d0800000000000000
+      internalID: -3141103740099679808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_22
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 59
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26947c4312b22be60800000000000000
+      internalID: 7976485311645960546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_23
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 59
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d32d5ff976a2f30800000000000000
+      internalID: 4551564310132964766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_24
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 59
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a780d07fd719c1350800000000000000
+      internalID: 5988821574697683066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_25
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 59
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2097acf0fac8360800000000000000
+      internalID: 7173300788850655937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_26
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 59
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bd6e291e0576b50800000000000000
+      internalID: 6586321909815106356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_27
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 59
+        width: 70
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672214db75269d500800000000000000
+      internalID: 421476169112691318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_28
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 59
+        width: 62
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509f330f5b58fc450800000000000000
+      internalID: 6111250235830565125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 47
+        width: 70
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea1291775b2437c0800000000000000
+      internalID: -4092598506805388567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_30
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 47
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc8bfbcf7e6447e0800000000000000
+      internalID: -1782178057369711405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_31
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 47
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff5508b64b9d4080800000000000000
+      internalID: -9201527735610679297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_32
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 47
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0c4e2943227e580800000000000000
+      internalID: -8798025737846865720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_33
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d85b790bfc7cf20800000000000000
+      internalID: 3442948797514485000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_34
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c32f6c25a85e1b0800000000000000
+      internalID: -5627940071199851377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_35
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e1242a0b6517800800000000000000
+      internalID: 608362741308202527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_36
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a206d7b80f85930800000000000000
+      internalID: 4132317140007004673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_37
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b19f12ba35ff28d0800000000000000
+      internalID: -2868804805166394960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_38
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbdfc3c9ae56f2a0800000000000000
+      internalID: -6704066912066741262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_39
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14adece4ad2f7620800000000000000
+      internalID: 2773986081856398363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_40
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75992e68e20752430800000000000000
+      internalID: 3757532809244350807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_41
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dedf254b927abc0800000000000000
+      internalID: -3772000308436275881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_42
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d06b4fbe3b60f920800000000000000
+      internalID: 3022033267207135440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_43
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 47
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa8e77fcb090f3d0800000000000000
+      internalID: -3174878596015682898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_44
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 47
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a779ac3c50777b0800000000000000
+      internalID: -5226702504064484713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_45
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 47
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd1d1568b7906720800000000000000
+      internalID: 2837434583469596125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_46
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 47
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540bfb45815b63820800000000000000
+      internalID: 2897702526365184069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_47
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 47
+        width: 62
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3798bbc0a120c6b90800000000000000
+      internalID: -7247415389439948429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_48
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 35
+        width: 70
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac26dab5520461b0800000000000000
+      internalID: -5664399864095167316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_49
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c2c02c1c69982d0800000000000000
+      internalID: -3275921495006892966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_50
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a4b14558fd970d0800000000000000
+      internalID: -3424460277903832512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_51
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97411ac63d5381a0800000000000000
+      internalID: -6808495721754310754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_52
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1700ec8730b4a3670800000000000000
+      internalID: 8519204123408466033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_53
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0ed608ea06a3050800000000000000
+      internalID: 5781039374278713531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_54
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667d7c0195e9447d0800000000000000
+      internalID: -2935046951767910554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_55
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b85d28622c7ff00800000000000000
+      internalID: 1150601700476029776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_56
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 35
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9866f41b20b1a4830800000000000000
+      internalID: 4056084112779208329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_57
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 35
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e36387415896570800000000000000
+      internalID: 8460439697954848284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_58
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 35
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c28441c51f73230800000000000000
+      internalID: 3618626203395042437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_59
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 35
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b288608722472f0800000000000000
+      internalID: -976117320331547903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_60
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9b22e5db6e93120800000000000000
+      internalID: 2394198377926670844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_61
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 35
+        width: 62
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e95706e4e69ae40800000000000000
+      internalID: 5668182888927305293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_62
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ae489ef007443f0800000000000000
+      internalID: -917485210432116165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_63
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea7faaa8ad755cc0800000000000000
+      internalID: -3722931353580242197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_64
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0381cdfcea581b280800000000000000
+      internalID: -9029288792043022288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_65
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673eeae14409f1d20800000000000000
+      internalID: 3251476078231741302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_66
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8930128025183bb0800000000000000
+      internalID: -4956188160555992694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_67
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8689b64f41c025e0800000000000000
+      internalID: -1936335293536172403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_68
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa6ecfb3a0394140800000000000000
+      internalID: 4704344765620972274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_69
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add4c6eb2f94f0e30800000000000000
+      internalID: 4471874261927874010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_70
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98164445515959a0800000000000000
+      internalID: -6243869981712967522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_71
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2622ed55394ee160800000000000000
+      internalID: 7056658159693342254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_72
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cafe6ee42b21b80800000000000000
+      internalID: -8425475900905116671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_73
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76a85cc28b2d9870800000000000000
+      internalID: 8691150696669030012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_74
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd0bc2c006643c00800000000000000
+      internalID: 879439980698209716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_75
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7955a45bb76979050800000000000000
+      internalID: 5807275702584235415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_76
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970226d6a6e762130800000000000000
+      internalID: 3541657152540254329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_77
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3065556c7f53d9f20800000000000000
+      internalID: 3430957829426861571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_78
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9f4f1b5021c1af0800000000000000
+      internalID: -424444449209910855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_79
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8a6ab11c5ff5d00800000000000000
+      internalID: 963759055021975776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_80
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff1a5e2678974c10800000000000000
+      internalID: 2037764989759660026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_81
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f624158556c6749e0800000000000000
+      internalID: -1637220756996668817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_82
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74929a43ceed6a880800000000000000
+      internalID: -8599941332340233913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_83
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3321e39bf38751a40800000000000000
+      internalID: 5338305148403716659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_84
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203a1d314bf9654b0800000000000000
+      internalID: -5451994703109971198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_85
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67cfaa7bd940f350800000000000000
+      internalID: 6048415506563581807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_86
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03385064afd05150800000000000000
+      internalID: 5859429012293038863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_87
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdfb803bb305bcb0800000000000000
+      internalID: -4848965321286222409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_88
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a377f29e6a9fb00800000000000000
+      internalID: 862904324072094263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_89
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1c514a5447c0d40800000000000000
+      internalID: 5551940283095433711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_90
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b185137e40dd4ab20800000000000000
+      internalID: 3144881452939827227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_91
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7ff96542c7e2290800000000000000
+      internalID: -7913250999729391696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_92
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f94173465926a770800000000000000
+      internalID: 8621623987122817526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_93
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e41126b34e2836c0800000000000000
+      internalID: -4163526987150715671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monolith_field_2_mid_94
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c61484bbff75460800000000000000
+      internalID: 7230528906602835009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      monolith_field_2_mid_0: 4100419139584095871
+      monolith_field_2_mid_1: 2849330614418251199
+      monolith_field_2_mid_10: 7292795833284272047
+      monolith_field_2_mid_11: 8622092266763014635
+      monolith_field_2_mid_12: -4751348550999172836
+      monolith_field_2_mid_13: 5334287497202518205
+      monolith_field_2_mid_14: -4635573721762256455
+      monolith_field_2_mid_15: -674105847648267486
+      monolith_field_2_mid_16: 4970990222297737536
+      monolith_field_2_mid_17: 7867736328806885615
+      monolith_field_2_mid_18: 741798001807972779
+      monolith_field_2_mid_19: 7043566672603424586
+      monolith_field_2_mid_2: 8473006865653287542
+      monolith_field_2_mid_20: -2081813290128295191
+      monolith_field_2_mid_21: -3141103740099679808
+      monolith_field_2_mid_22: 7976485311645960546
+      monolith_field_2_mid_23: 4551564310132964766
+      monolith_field_2_mid_24: 5988821574697683066
+      monolith_field_2_mid_25: 7173300788850655937
+      monolith_field_2_mid_26: 6586321909815106356
+      monolith_field_2_mid_27: 421476169112691318
+      monolith_field_2_mid_28: 6111250235830565125
+      monolith_field_2_mid_29: -4092598506805388567
+      monolith_field_2_mid_3: -1957992354079180776
+      monolith_field_2_mid_30: -1782178057369711405
+      monolith_field_2_mid_31: -9201527735610679297
+      monolith_field_2_mid_32: -8798025737846865720
+      monolith_field_2_mid_33: 3442948797514485000
+      monolith_field_2_mid_34: -5627940071199851377
+      monolith_field_2_mid_35: 608362741308202527
+      monolith_field_2_mid_36: 4132317140007004673
+      monolith_field_2_mid_37: -2868804805166394960
+      monolith_field_2_mid_38: -6704066912066741262
+      monolith_field_2_mid_39: 2773986081856398363
+      monolith_field_2_mid_4: -2362765359984282290
+      monolith_field_2_mid_40: 3757532809244350807
+      monolith_field_2_mid_41: -3772000308436275881
+      monolith_field_2_mid_42: 3022033267207135440
+      monolith_field_2_mid_43: -3174878596015682898
+      monolith_field_2_mid_44: -5226702504064484713
+      monolith_field_2_mid_45: 2837434583469596125
+      monolith_field_2_mid_46: 2897702526365184069
+      monolith_field_2_mid_47: -7247415389439948429
+      monolith_field_2_mid_48: -5664399864095167316
+      monolith_field_2_mid_49: -3275921495006892966
+      monolith_field_2_mid_5: 3227651744189547303
+      monolith_field_2_mid_50: -3424460277903832512
+      monolith_field_2_mid_51: -6808495721754310754
+      monolith_field_2_mid_52: 8519204123408466033
+      monolith_field_2_mid_53: 5781039374278713531
+      monolith_field_2_mid_54: -2935046951767910554
+      monolith_field_2_mid_55: 1150601700476029776
+      monolith_field_2_mid_56: 4056084112779208329
+      monolith_field_2_mid_57: 8460439697954848284
+      monolith_field_2_mid_58: 3618626203395042437
+      monolith_field_2_mid_59: -976117320331547903
+      monolith_field_2_mid_6: 5099389497298278699
+      monolith_field_2_mid_60: 2394198377926670844
+      monolith_field_2_mid_61: 5668182888927305293
+      monolith_field_2_mid_62: -917485210432116165
+      monolith_field_2_mid_63: -3722931353580242197
+      monolith_field_2_mid_64: -9029288792043022288
+      monolith_field_2_mid_65: 3251476078231741302
+      monolith_field_2_mid_66: -4956188160555992694
+      monolith_field_2_mid_67: -1936335293536172403
+      monolith_field_2_mid_68: 4704344765620972274
+      monolith_field_2_mid_69: 4471874261927874010
+      monolith_field_2_mid_7: 7138614307872867062
+      monolith_field_2_mid_70: -6243869981712967522
+      monolith_field_2_mid_71: 7056658159693342254
+      monolith_field_2_mid_72: -8425475900905116671
+      monolith_field_2_mid_73: 8691150696669030012
+      monolith_field_2_mid_74: 879439980698209716
+      monolith_field_2_mid_75: 5807275702584235415
+      monolith_field_2_mid_76: 3541657152540254329
+      monolith_field_2_mid_77: 3430957829426861571
+      monolith_field_2_mid_78: -424444449209910855
+      monolith_field_2_mid_79: 963759055021975776
+      monolith_field_2_mid_8: 3792488631812649799
+      monolith_field_2_mid_80: 2037764989759660026
+      monolith_field_2_mid_81: -1637220756996668817
+      monolith_field_2_mid_82: -8599941332340233913
+      monolith_field_2_mid_83: 5338305148403716659
+      monolith_field_2_mid_84: -5451994703109971198
+      monolith_field_2_mid_85: 6048415506563581807
+      monolith_field_2_mid_86: 5859429012293038863
+      monolith_field_2_mid_87: -4848965321286222409
+      monolith_field_2_mid_88: 862904324072094263
+      monolith_field_2_mid_89: 5551940283095433711
+      monolith_field_2_mid_9: -3123069048121186506
+      monolith_field_2_mid_90: 3144881452939827227
+      monolith_field_2_mid_91: -7913250999729391696
+      monolith_field_2_mid_92: 8621623987122817526
+      monolith_field_2_mid_93: -4163526987150715671
+      monolith_field_2_mid_94: 7230528906602835009
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

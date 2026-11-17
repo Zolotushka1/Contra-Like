@@ -1,0 +1,2364 @@
+fileFormatVersion: 2
+guid: d72d21d1bf3bbfb4c8e3afceee25fbe6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1802628197960420201
+    second: one_eyed_creature_2_0
+  - first:
+      213: -6954444248611788528
+    second: one_eyed_creature_2_1
+  - first:
+      213: 2005282174261265779
+    second: one_eyed_creature_2_2
+  - first:
+      213: 3590737544199285548
+    second: one_eyed_creature_2_3
+  - first:
+      213: 697792229713005261
+    second: one_eyed_creature_2_4
+  - first:
+      213: -2926505028157891533
+    second: one_eyed_creature_2_5
+  - first:
+      213: 8901252031115985296
+    second: one_eyed_creature_2_6
+  - first:
+      213: -3302923370246442610
+    second: one_eyed_creature_2_7
+  - first:
+      213: 6766279270335620930
+    second: one_eyed_creature_2_8
+  - first:
+      213: -7626158344936877958
+    second: one_eyed_creature_2_9
+  - first:
+      213: -6028410017549151670
+    second: one_eyed_creature_2_10
+  - first:
+      213: -3116745832440567866
+    second: one_eyed_creature_2_11
+  - first:
+      213: -6799436960257241988
+    second: one_eyed_creature_2_12
+  - first:
+      213: -3419497738845508310
+    second: one_eyed_creature_2_13
+  - first:
+      213: -9115317752684104693
+    second: one_eyed_creature_2_14
+  - first:
+      213: 922646524899401613
+    second: one_eyed_creature_2_15
+  - first:
+      213: 6013914706951594044
+    second: one_eyed_creature_2_16
+  - first:
+      213: -7076576982734807891
+    second: one_eyed_creature_2_17
+  - first:
+      213: 6862891223918265674
+    second: one_eyed_creature_2_18
+  - first:
+      213: 1492329266874272170
+    second: one_eyed_creature_2_19
+  - first:
+      213: 6376260929990160229
+    second: one_eyed_creature_2_20
+  - first:
+      213: -185309140402898712
+    second: one_eyed_creature_2_21
+  - first:
+      213: -431696446533504612
+    second: one_eyed_creature_2_22
+  - first:
+      213: -4546756733831587944
+    second: one_eyed_creature_2_23
+  - first:
+      213: -8421345547496627012
+    second: one_eyed_creature_2_24
+  - first:
+      213: 7827877656608681970
+    second: one_eyed_creature_2_25
+  - first:
+      213: -7051457982913603351
+    second: one_eyed_creature_2_26
+  - first:
+      213: -6300887799181788869
+    second: one_eyed_creature_2_27
+  - first:
+      213: 7614705246269666848
+    second: one_eyed_creature_2_28
+  - first:
+      213: 5471637162033405549
+    second: one_eyed_creature_2_29
+  - first:
+      213: 1549038101429220366
+    second: one_eyed_creature_2_30
+  - first:
+      213: -220588785439023029
+    second: one_eyed_creature_2_31
+  - first:
+      213: -544541384906742835
+    second: one_eyed_creature_2_32
+  - first:
+      213: 4661465228925322304
+    second: one_eyed_creature_2_33
+  - first:
+      213: 5456654676868899263
+    second: one_eyed_creature_2_34
+  - first:
+      213: 6260245952039178200
+    second: one_eyed_creature_2_35
+  - first:
+      213: 3429604752733943653
+    second: one_eyed_creature_2_36
+  - first:
+      213: 3976048142978181090
+    second: one_eyed_creature_2_37
+  - first:
+      213: -106817199664098268
+    second: one_eyed_creature_2_38
+  - first:
+      213: -3041041270183610830
+    second: one_eyed_creature_2_39
+  - first:
+      213: -8449044803521422209
+    second: one_eyed_creature_2_40
+  - first:
+      213: 1831020264437885491
+    second: one_eyed_creature_2_41
+  - first:
+      213: 2781937207054899999
+    second: one_eyed_creature_2_42
+  - first:
+      213: 5937150433304540168
+    second: one_eyed_creature_2_43
+  - first:
+      213: 1496197564718668703
+    second: one_eyed_creature_2_44
+  - first:
+      213: 3965109995506944621
+    second: one_eyed_creature_2_45
+  - first:
+      213: -6970622653888718271
+    second: one_eyed_creature_2_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: one_eyed_creature_2_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 703
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79477766437cbf6e0800000000000000
+      internalID: -1802628197960420201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 703
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0196c375dc9dc7f90800000000000000
+      internalID: -6954444248611788528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 639
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3750447538134db10800000000000000
+      internalID: 2005282174261265779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 639
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b28ab95ccd4d130800000000000000
+      internalID: 3590737544199285548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 575
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca421bf55e0fa900800000000000000
+      internalID: 697792229713005261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 575
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c1143ae27f267d0800000000000000
+      internalID: -2926505028157891533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_6
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 575
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09184eabf89978b70800000000000000
+      internalID: 8901252031115985296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 575
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81ff14c1b8a922d0800000000000000
+      internalID: -3302923370246442610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 575
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247a177a527a6ed50800000000000000
+      internalID: 6766279270335620930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_9
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 575
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a701821f3617a2690800000000000000
+      internalID: -7626158344936877958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 575
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4293976709c65ca0800000000000000
+      internalID: -6028410017549151670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 511
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7633abd281fb4d0800000000000000
+      internalID: -3116745832440567866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 554
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c843f0c1c83a1a0800000000000000
+      internalID: -6799436960257241988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 447
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dacdd7ce08b80d0800000000000000
+      internalID: -3419497738845508310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 383
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04b3788cc2ef7180800000000000000
+      internalID: -9115317752684104693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 319
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f90e14026edcc00800000000000000
+      internalID: 922646524899401613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 255
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30e8591097b57350800000000000000
+      internalID: 6013914706951594044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 255
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacd26e3ab2facd90800000000000000
+      internalID: -7076576982734807891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 255
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a454bcdf433ed3f50800000000000000
+      internalID: 6862891223918265674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 255
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9c5ffbf81d5b410800000000000000
+      internalID: 1492329266874272170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 255
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fe34f68870d7850800000000000000
+      internalID: 6376260929990160229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_21
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 255
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8f6a09156ad6df0800000000000000
+      internalID: -185309140402898712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_22
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 255
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91729d7e5e420af0800000000000000
+      internalID: -431696446533504612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_23
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 255
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8975adf17dca6e0c0800000000000000
+      internalID: -4546756733831587944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_24
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 255
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb465aeb7de512b80800000000000000
+      internalID: -8421345547496627012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 191
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffa06b314532ac60800000000000000
+      internalID: 7827877656608681970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 192
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e897d32350342e90800000000000000
+      internalID: -7051457982913603351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 191
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b393d202eefbe88a0800000000000000
+      internalID: -6300887799181788869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_28
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 191
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026f439b31edca960800000000000000
+      internalID: 7614705246269666848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 127
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ed3d642092feb40800000000000000
+      internalID: 5471637162033405549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 127
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04fb3332f94f7510800000000000000
+      internalID: 1549038101429220366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_31
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 127
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40e87a1baf40fcf0800000000000000
+      internalID: -220588785439023029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_32
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 127
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3622bde766178f0800000000000000
+      internalID: -544541384906742835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 63
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044cdee9de9d0b040800000000000000
+      internalID: 4661465228925322304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 63
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1aebc948ee9bb40800000000000000
+      internalID: 5456654676868899263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_35
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 63
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df4fd1768cd0e650800000000000000
+      internalID: 6260245952039178200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_36
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 63
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567b2be0a57689f20800000000000000
+      internalID: 3429604752733943653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_37
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 26
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7e01458b2cd2730800000000000000
+      internalID: 3976048142978181090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 23
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4249e16a252848ef0800000000000000
+      internalID: -106817199664098268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 19
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236376fa31d0cc5d0800000000000000
+      internalID: -3041041270183610830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_40
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 16
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cdeb22486feba80800000000000000
+      internalID: -8449044803521422209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_41
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 17
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33aac56ba37196910800000000000000
+      internalID: 1831020264437885491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 24
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b13f5862d6b9620800000000000000
+      internalID: 2781937207054899999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_43
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8047c2bdcdef46250800000000000000
+      internalID: 5937150433304540168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_44
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 24
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b5cd602cf83c410800000000000000
+      internalID: 1496197564718668703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_45
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 36
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6aca896886e60730800000000000000
+      internalID: 3965109995506944621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eyed_creature_2_46
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 28
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a1ca3d0af534f90800000000000000
+      internalID: -6970622653888718271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R00_C00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87abb109ded2a114dbd14f3ad938f3bc
+      internalID: 368149825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R00_C01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a8ace8796a7e94bbf1f55918cd81e3
+      internalID: -1083791218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R01_C00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4de61b80ecfa7743923dfac3ca5d7e2
+      internalID: -256867754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R01_C01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25663fc832c56b540a240a414ca15202
+      internalID: -801476331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R02_C00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bf5459123e29f41ab6288cddb536e2
+      internalID: 1375045926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R02_C01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21688cb19da388d4cac06dbff856faf2
+      internalID: -1065597328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R02_C02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0fdfbb778638e4eb8a26cd4e1f5e07
+      internalID: 942615825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R02_C03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d299f89c650c93d4c9e4ab3d2b8eab8c
+      internalID: -48398863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R02_C04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ad791bf822f1c42934fffa1f4ace91
+      internalID: 209684887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R02_C05
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631cecf79d3da81479d0f79707d13e57
+      internalID: 1642634828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R02_C06
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bac0ec51a636b489390e3ec9792659
+      internalID: 1340614865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R03_C00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cb8cd2ce45aba43a4b7b2bbcda435f
+      internalID: -511739363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R04_C00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07922c9e4be6fd44197477ba6d4292ec
+      internalID: 1446765623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R05_C00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39c5529dcac20c4184cbb68e762016d
+      internalID: 1676366114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R06_C00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c768c377be8374b8e3f15e814d39f2
+      internalID: 1241973751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R07_C00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f972ea6f6e1954db41d1a5dd52b14e
+      internalID: 1766664481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R07_C01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e26fd3cc20cad46829d36663663877
+      internalID: -1289667450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R07_C02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fa52ab45efcf944b5bb4d1d043ad2a
+      internalID: -119353553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R07_C03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c396e448024e2bc4489cb3b31d0053cd
+      internalID: 1712884873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R07_C04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5107e7fbea4a5d642b688d2919c1a60a
+      internalID: 1139438620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R07_C05
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405432c493c4d6141a915b31c9531a52
+      internalID: -1213648524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R07_C06
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a533fa85ece269b49a8cc35bba670bf7
+      internalID: 1908766570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R07_C07
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b44550f424c1b48bc542bca78bcfaf
+      internalID: 983576707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R07_C08
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876cb7c323f6594409ef434437d5944e
+      internalID: -1234783367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R08_C00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1304ca3f8ce724881fda10fb3aecf6
+      internalID: -227571426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R08_C01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50d40b854e0640489b66ccca593c999
+      internalID: 1737363597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R08_C02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e8b4f0b2bd7704dae3bd6d59525b7c
+      internalID: -402925768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R08_C03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f587a8f2585414497b46406648fec6
+      internalID: 1081872544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R09_C00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891e9f73230815f47927548b14302d44
+      internalID: -1907560368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R09_C01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c80575495379243b77153220810bb1
+      internalID: 1395554412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R09_C02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f16fffbb0cf7d247bdd96a36130ec13
+      internalID: 113434454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R09_C03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c642db5c6fe3945b410ee8f2f50e6a
+      internalID: -1351532893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R10_C00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3dab6493e727043a32c74dcd88ae5a
+      internalID: 249683799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R10_C01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ca3f45de100994b81e1fb96e0e2add
+      internalID: -153892295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R10_C02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf3d72a4bfc0ea41a27521a7ac15963
+      internalID: 6608199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R10_C03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8007eecf133bb42806713b6fe43057
+      internalID: -1906302077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R11_C00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3358ef3b6363e743bf0349cb542f062
+      internalID: -576919515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R11_C01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fac5374b638d24d86a5f5fe151c8fb
+      internalID: 1084427608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R11_C02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9f8ccad73f6e842819283fa11e5d91
+      internalID: -90962251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R11_C03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108b20339f4e1df4498c6a77179fb1c4
+      internalID: -1217652543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R11_C04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a19ba51438a0f04490f3782d2c2e4d2
+      internalID: -151922170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R11_C05
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5582550efe4b4754a89b16e71fcbda31
+      internalID: 1575293005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R11_C06
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85909db36bb5a6a44bd683c17304c74c
+      internalID: -1726665491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeSheet2_R11_C07
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4b6cf05c3a13f448a9c18feb4ff7d3
+      internalID: 1882004008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c9c5b28f96806b24d9015853f0a3cb16
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EyeSheet2_R00_C00: 368149825
+      EyeSheet2_R00_C01: -1083791218
+      EyeSheet2_R01_C00: -256867754
+      EyeSheet2_R01_C01: -801476331
+      EyeSheet2_R02_C00: 1375045926
+      EyeSheet2_R02_C01: -1065597328
+      EyeSheet2_R02_C02: 942615825
+      EyeSheet2_R02_C03: -48398863
+      EyeSheet2_R02_C04: 209684887
+      EyeSheet2_R02_C05: 1642634828
+      EyeSheet2_R02_C06: 1340614865
+      EyeSheet2_R03_C00: -511739363
+      EyeSheet2_R04_C00: 1446765623
+      EyeSheet2_R05_C00: 1676366114
+      EyeSheet2_R06_C00: 1241973751
+      EyeSheet2_R07_C00: 1766664481
+      EyeSheet2_R07_C01: -1289667450
+      EyeSheet2_R07_C02: -119353553
+      EyeSheet2_R07_C03: 1712884873
+      EyeSheet2_R07_C04: 1139438620
+      EyeSheet2_R07_C05: -1213648524
+      EyeSheet2_R07_C06: 1908766570
+      EyeSheet2_R07_C07: 983576707
+      EyeSheet2_R07_C08: -1234783367
+      EyeSheet2_R08_C00: -227571426
+      EyeSheet2_R08_C01: 1737363597
+      EyeSheet2_R08_C02: -402925768
+      EyeSheet2_R08_C03: 1081872544
+      EyeSheet2_R09_C00: -1907560368
+      EyeSheet2_R09_C01: 1395554412
+      EyeSheet2_R09_C02: 113434454
+      EyeSheet2_R09_C03: -1351532893
+      EyeSheet2_R10_C00: 249683799
+      EyeSheet2_R10_C01: -153892295
+      EyeSheet2_R10_C02: 6608199
+      EyeSheet2_R10_C03: -1906302077
+      EyeSheet2_R11_C00: -576919515
+      EyeSheet2_R11_C01: 1084427608
+      EyeSheet2_R11_C02: -90962251
+      EyeSheet2_R11_C03: -1217652543
+      EyeSheet2_R11_C04: -151922170
+      EyeSheet2_R11_C05: 1575293005
+      EyeSheet2_R11_C06: -1726665491
+      EyeSheet2_R11_C07: 1882004008
+      one_eyed_creature_2_0: -1802628197960420201
+      one_eyed_creature_2_1: -6954444248611788528
+      one_eyed_creature_2_10: -6028410017549151670
+      one_eyed_creature_2_11: -3116745832440567866
+      one_eyed_creature_2_12: -6799436960257241988
+      one_eyed_creature_2_13: -3419497738845508310
+      one_eyed_creature_2_14: -9115317752684104693
+      one_eyed_creature_2_15: 922646524899401613
+      one_eyed_creature_2_16: 6013914706951594044
+      one_eyed_creature_2_17: -7076576982734807891
+      one_eyed_creature_2_18: 6862891223918265674
+      one_eyed_creature_2_19: 1492329266874272170
+      one_eyed_creature_2_2: 2005282174261265779
+      one_eyed_creature_2_20: 6376260929990160229
+      one_eyed_creature_2_21: -185309140402898712
+      one_eyed_creature_2_22: -431696446533504612
+      one_eyed_creature_2_23: -4546756733831587944
+      one_eyed_creature_2_24: -8421345547496627012
+      one_eyed_creature_2_25: 7827877656608681970
+      one_eyed_creature_2_26: -7051457982913603351
+      one_eyed_creature_2_27: -6300887799181788869
+      one_eyed_creature_2_28: 7614705246269666848
+      one_eyed_creature_2_29: 5471637162033405549
+      one_eyed_creature_2_3: 3590737544199285548
+      one_eyed_creature_2_30: 1549038101429220366
+      one_eyed_creature_2_31: -220588785439023029
+      one_eyed_creature_2_32: -544541384906742835
+      one_eyed_creature_2_33: 4661465228925322304
+      one_eyed_creature_2_34: 5456654676868899263
+      one_eyed_creature_2_35: 6260245952039178200
+      one_eyed_creature_2_36: 3429604752733943653
+      one_eyed_creature_2_37: 3976048142978181090
+      one_eyed_creature_2_38: -106817199664098268
+      one_eyed_creature_2_39: -3041041270183610830
+      one_eyed_creature_2_4: 697792229713005261
+      one_eyed_creature_2_40: -8449044803521422209
+      one_eyed_creature_2_41: 1831020264437885491
+      one_eyed_creature_2_42: 2781937207054899999
+      one_eyed_creature_2_43: 5937150433304540168
+      one_eyed_creature_2_44: 1496197564718668703
+      one_eyed_creature_2_45: 3965109995506944621
+      one_eyed_creature_2_46: -6970622653888718271
+      one_eyed_creature_2_5: -2926505028157891533
+      one_eyed_creature_2_6: 8901252031115985296
+      one_eyed_creature_2_7: -3302923370246442610
+      one_eyed_creature_2_8: 6766279270335620930
+      one_eyed_creature_2_9: -7626158344936877958
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
